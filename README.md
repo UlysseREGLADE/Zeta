@@ -1,3 +1,5 @@
-# Zeta
+# A geometrical summation method for the Riemann zêta function
 
-The submission status of the article is currently "on hold". The codes will be realized as soon as it becomes public.
+Codes used for the ArXiv preprint:
+
+[https://arxiv.org/pdf/1903.10853.pdf](https://arxiv.org/pdf/1903.10853.pdf)
