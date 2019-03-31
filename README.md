@@ -16,4 +16,4 @@ These codes are written in Python3, and make use of the following libraries:
 
 This code was used to create some plots described in the article:
 
-[example of plot](images/Fig5.png)
+![Alt text](relative/path/to/img.jpg?raw=true "Example of plot")
