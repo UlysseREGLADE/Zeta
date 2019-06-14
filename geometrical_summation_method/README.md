@@ -23,7 +23,7 @@ For instance, this plot shows <img src="https://latex.codecogs.com/gif.latex?\ze
 
 ### Uz_calculator.py
 
-This code is meant to compute the approximated expression of *Uz* for first known non-trivial zeros of the Riemann zêta function. The table of these values is in the preprint, here are the first values: 8, 14, 18, 24, 18, 32, 38, 40, 46...
+This code is meant to compute the approximated expression of *Uz* for first known non-trivial zeros of the Riemann zêta function. The table of these values is in the preprint, here are the first values: 8, 14, 18, 24, 28, 32, 38, 40, 46...
 
 ### domination_function.py
 

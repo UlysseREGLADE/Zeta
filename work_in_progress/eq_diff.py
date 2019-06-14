@@ -9,8 +9,9 @@ mp.mp.prec = 1000
 def r(n, m):
 
     return (-n)/(1-z-m)
+x = mp.mpc(0.5)
 y = mp.mpc('14.1347251417346937904572519835624702707842571156992431756855674601499634298092567649490103931715610127792')
-z = mp.mpc(0.5) + 1j*y
+z = x + 1j*y
 print(z)
 
 print(np.angle(np.array(zeta(z)).astype(complex)))
