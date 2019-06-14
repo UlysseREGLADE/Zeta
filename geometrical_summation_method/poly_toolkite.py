@@ -14,6 +14,15 @@ def fact(i):
 
     return ret
 
+def exp(x, n):
+
+    ret = 0
+
+    for i in range(n+1):
+
+        ret += x**i/fact(i)
+
+    return ret
 
 def sin(x, n):
 
@@ -64,9 +73,12 @@ def inv_1_(x, alpha, n):
 
 if(__name__ == "__main__"):
 
+
     x = sy.symbols('x')
     n=4
     alpha = 2
+
+    sy.pprint(exp(x, 5))
 
     sy.pprint(inv_1_(x, alpha, n))
 
