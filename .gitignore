@@ -3,6 +3,6 @@
 
 # But not these files...
 !.gitignore
-!.md
+!*.md
 !*.py
-# !*/
+!*/
