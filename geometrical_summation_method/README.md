@@ -17,7 +17,7 @@ These codes are written in Python3, and make use of the following libraries:
 
 This code was used to create some plots described in the article:
 
-![Alt text](images/Fig5.png?raw=true "Example of plot")
+![Alt text](./images/Fig5.png?raw=true "Example of plot")
 
 For instance, this plot shows <img src="https://latex.codecogs.com/gif.latex?\zeta(\frac{1}{2}-2i)" title="\zeta(\frac{1}{2}-2i)" /> in the complex plane (<font color="green">green</font>), the original deverging series <img src="https://latex.codecogs.com/gif.latex?\left\{&space;\zeta_n(\frac{1}{2}-2i)&space;\right\}_{n&space;\in&space;\mathbb{N}}" title="\left\{ \zeta_n(\frac{1}{2}-2i) \right\}_{n \in \mathbb{N}}" /> (<font color="red">red</font>), and the converging series <img src="https://latex.codecogs.com/gif.latex?\left\{&space;c_n(\frac{1}{2}-2i)&space;\right\}_{n&space;\in&space;\mathbb{N}}" title="\left\{ \zeta_n(\frac{1}{2}-2i) \right\}_{n \in \mathbb{N}}" /> (<font color="blue">blue</font>). In the preprint, this last series is shown to converge to the actual value of zêta.
 
